@@ -1,1 +1,1 @@
-# svg-animetion
+# svg-animation
