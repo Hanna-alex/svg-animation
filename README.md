@@ -1,3 +1,3 @@
 # svg-animation
 
-https://hanna-alex.github.io/svg-animation/
+Демо: https://hanna-alex.github.io/svg-animation/
